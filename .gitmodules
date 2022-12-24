@@ -1,0 +1,4 @@
+[submodule "rocks"]
+	path = rocksdb
+	url = https://github.com/facebook/rocksdb
+	branch = 6.8.fb
